@@ -1,0 +1,2 @@
+#!/bin/bashf
+chown -R vincent:staff .
